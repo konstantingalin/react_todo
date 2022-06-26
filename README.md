@@ -1,1 +1,2 @@
-# react_todo
+Todo Application
+-----
